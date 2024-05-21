@@ -9,7 +9,7 @@ During 12 weeks of the semester we were developing a database and a website for 
 You may see the screenshots from the website. You can also access the website via the link provided in the link.txt
 file.
 
-As we signed an NDA, I cannot go into details about the devleopment process, or share the code.
+As we signed an NDA, I cannot go into details about the development process, or share the code.
 
 However, I can share what we learned from FIT3047 unit:
 
